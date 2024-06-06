@@ -8,8 +8,8 @@
   <a href="https://t.me/Foxy87">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.facebook.com/3denfox">
-    <img src="https://img.shields.io/badge/3denfox-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://www.facebook.com/DanielFoxWorks">
+    <img src="https://img.shields.io/badge/DanielFoxWorks-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 <h1 align="center">
